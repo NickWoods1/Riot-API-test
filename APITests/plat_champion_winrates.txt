@@ -1,0 +1,477 @@
+1	
+Janna_image
+Janna	53.97%	43,728	3.31	15.56	7,780
+2	
+Soraka_image
+Soraka	53.18%	41,163	2.8	20.96	7,621
+3	
+Sona_image
+Sona	52.74%	20,360	2.96	17.46	8,131
+4	
+Nocturne_image
+Nocturne	52.73%	36,873	2.73	169.87	12,263
+5	
+Fizz_image
+Fizz	52.64%	26,034	2.42	168.11	12,210
+6	
+Garen_image
+Garen	52.61%	51,712	2.01	206.53	12,726
+7	
+Renata Glasc_image
+Renata Glasc	52.55%	40,362	2.8	26.11	8,283
+8	
+Quinn_image
+Quinn	52.3%	12,009	1.86	179.61	12,440
+9	
+Shen_image
+Shen	52.19%	26,710	2.92	148.42	10,189
+10	
+Vayne_image
+Vayne	52.18%	84,358	2.05	189.53	12,436
+11	
+Anivia_image
+Anivia	52.13%	22,018	2.47	186.29	11,873
+12	
+Kha'Zix_image
+Kha'Zix	52.12%	59,500	2.61	161.62	12,395
+13	
+Aurelion Sol_image
+Aurelion Sol	52.1%	4,386	2.48	173.94	11,306
+14	
+Kayle_image
+Kayle	52.06%	35,872	1.87	220.45	12,593
+15	
+Akshan_image
+Akshan	51.93%	34,329	2.07	184.60	12,907
+16	
+Riven_image
+Riven	51.87%	30,765	1.98	195.09	12,143
+17	
+Senna_image
+Senna	51.82%	61,094	2.62	39.72	10,182
+18	
+Heimerdinger_image
+Heimerdinger	51.81%	7,445	1.82	165.62	11,335
+19	
+Veigar_image
+Veigar	51.79%	61,776	2.29	187.43	12,086
+20	
+Cassiopeia_image
+Cassiopeia	51.72%	21,132	1.97	198.73	12,153
+21	
+Neeko_image
+Neeko	51.67%	9,661	2.22	137.14	10,959
+22	
+Rammus_image
+Rammus	51.65%	11,515	2.94	136.57	10,689
+23	
+Shyvana_image
+Shyvana	51.6%	27,295	2.61	194.12	12,369
+24	
+Singed_image
+Singed	51.59%	13,652	2.12	181.49	11,253
+25	
+Nami_image
+Nami	51.52%	65,967	3.21	13.49	8,329
+26	
+Ziggs_image
+Ziggs	51.5%	13,137	2.42	200.13	12,220
+27	
+Vi_image
+Vi	51.48%	23,875	2.43	161.75	11,820
+28	
+Ornn_image
+Ornn	51.48%	17,722	2.35	173.13	10,647
+29	
+Ashe_image
+Ashe	51.47%	39,620	2.42	158.15	11,266
+30	
+Zilean_image
+Zilean	51.45%	34,118	3.13	65.03	8,762
+31	
+Rek'Sai_image
+Rek'Sai	51.45%	15,383	2.52	148.93	12,003
+32	
+Tahm Kench_image
+Tahm Kench	51.45%	15,033	2.57	116.82	9,813
+33	
+Kled_image
+Kled	51.42%	8,673	2.23	171.98	11,961
+34	
+Maokai_image
+Maokai	51.42%	6,352	2.2	64.97	8,924
+35	
+Blitzcrank_image
+Blitzcrank	51.39%	33,689	2.54	33.60	7,994
+36	
+Illaoi_image
+Illaoi	51.38%	16,155	1.27	218.17	12,687
+37	
+Ahri_image
+Ahri	51.36%	67,525	2.55	176.45	11,508
+38	
+Malzahar_image
+Malzahar	51.35%	20,660	2.09	202.45	11,931
+39	
+Diana_image
+Diana	51.33%	71,847	2.38	185.40	12,498
+40	
+Zac_image
+Zac	51.3%	38,071	3.44	145.60	10,937
+41	
+Yorick_image
+Yorick	51.3%	15,239	1.43	208.36	12,185
+42	
+Jhin_image
+Jhin	51.29%	102,889	2.89	192.84	12,515
+43	
+Fiddlesticks_image
+Fiddlesticks	51.29%	20,087	2.72	159.10	11,396
+44	
+Warwick_image
+Warwick	51.28%	24,864	2.23	150.97	11,571
+45	
+Volibear_image
+Volibear	51.24%	43,585	2.35	162.72	11,445
+46	
+Kog'Maw_image
+Kog'Maw	51.17%	11,354	2.13	194.81	12,681
+47	
+Trundle_image
+Trundle	51.13%	28,247	2.22	171.18	11,859
+48	
+Zyra_image
+Zyra	51.11%	22,337	2.06	52.98	9,626
+49	
+Lucian_image
+Lucian	51.01%	62,265	2.24	204.23	12,881
+50	
+Mordekaiser_image
+Mordekaiser	51.01%	26,250	1.88	185.11	11,904
+51	
+Annie_image
+Annie	51.01%	10,939	2.29	159.39	11,263
+52	
+Talon_image
+Talon	50.91%	12,561	2.22	181.51	12,839
+53	
+Shaco_image
+Shaco	50.8%	40,343	2.69	139.18	11,797
+54	
+Malphite_image
+Malphite	50.78%	26,901	2.39	156.44	10,503
+55	
+Xayah_image
+Xayah	50.73%	30,687	2.33	204.62	12,455
+56	
+Twitch_image
+Twitch	50.71%	60,219	2.29	168.75	12,536
+57	
+Ekko_image
+Ekko	50.71%	51,759	2.53	175.59	12,328
+58	
+Sejuani_image
+Sejuani	50.7%	14,618	3.11	153.75	11,077
+59	
+Zed_image
+Zed	50.68%	44,752	2.25	180.08	12,539
+60	
+Lulu_image
+Lulu	50.65%	59,034	3.12	19.12	7,887
+61	
+Skarner_image
+Skarner	50.63%	4,017	2.87	152.64	10,578
+62	
+Dr. Mundo_image
+Dr. Mundo	50.62%	10,902	2.15	191.78	11,622
+63	
+Viktor_image
+Viktor	50.61%	46,294	2.19	199.20	12,108
+64	
+Nunu & Willump_image
+Nunu & Willump	50.58%	22,169	2.86	141.12	10,613
+65	
+Sett_image
+Sett	50.57%	34,765	1.74	174.60	11,868
+66	
+Vladimir_image
+Vladimir	50.54%	29,338	2.3	195.88	11,917
+67	
+Fiora_image
+Fiora	50.53%	36,165	1.65	188.76	12,078
+68	
+Kassadin_image
+Kassadin	50.53%	24,143	2.37	180.60	11,972
+69	
+Urgot_image
+Urgot	50.53%	19,291	1.87	204.33	12,652
+70	
+Teemo_image
+Teemo	50.47%	21,386	1.66	187.45	12,170
+71	
+Tristana_image
+Tristana	50.45%	31,721	2.28	196.58	12,881
+72	
+Lissandra_image
+Lissandra	50.45%	17,380	2.31	180.52	11,436
+73	
+Wukong_image
+Wukong	50.45%	12,550	2.12	173.46	11,969
+74	
+Taliyah_image
+Taliyah	50.45%	7,157	2.37	129.45	11,516
+75	
+Aatrox_image
+Aatrox	50.44%	35,020	1.96	181.04	11,674
+76	
+Cho'Gath_image
+Cho'Gath	50.37%	17,835	2.07	184.51	11,592
+77	
+Qiyana_image
+Qiyana	50.36%	27,838	2.12	166.50	12,241
+78	
+Camille_image
+Camille	50.35%	32,628	1.86	174.31	11,620
+79	
+Kayn_image
+Kayn	50.33%	54,945	2.36	177.15	12,568
+80	
+Samira_image
+Samira	50.29%	45,073	2.21	191.74	12,998
+81	
+Nautilus_image
+Nautilus	50.22%	51,494	2.41	37.10	7,950
+82	
+Bard_image
+Bard	50.18%	18,703	2.96	24.40	8,415
+83	
+Katarina_image
+Katarina	50.16%	35,947	2.25	163.02	12,244
+84	
+Kindred_image
+Kindred	50.16%	16,869	2.23	170.65	12,453
+85	
+Darius_image
+Darius	50.06%	39,385	1.75	196.02	12,290
+86	
+Jinx_image
+Jinx	50.03%	129,667	2.31	202.23	12,359
+87	
+Hecarim_image
+Hecarim	50.01%	54,761	2.99	170.38	12,051
+88	
+Pyke_image
+Pyke	49.99%	63,167	2.2	45.63	11,331
+89	
+Swain_image
+Swain	49.98%	11,636	2.35	83.51	10,258
+90	
+Draven_image
+Draven	49.96%	34,559	1.98	194.55	13,375
+91	
+Miss Fortune_image
+Miss Fortune	49.92%	37,615	2.27	191.15	12,559
+92	
+Vel'Koz_image
+Vel'Koz	49.91%	19,755	2.34	129.89	10,823
+93	
+Ivern_image
+Ivern	49.82%	6,008	3.3	116.31	9,241
+94	
+Rell_image
+Rell	49.8%	5,835	2.41	34.03	7,914
+95	
+Lillia_image
+Lillia	49.76%	15,023	2.52	187.61	12,188
+96	
+Seraphine_image
+Seraphine	49.67%	20,176	2.63	95.98	9,651
+97	
+Yasuo_image
+Yasuo	49.66%	58,974	1.67	207.84	12,502
+98	
+Vex_image
+Vex	49.64%	30,822	2.36	161.43	11,353
+99	
+Lux_image
+Lux	49.63%	63,700	2.64	101.78	10,397
+100	
+Xerath_image
+Xerath	49.6%	42,657	2.71	115.29	11,043
+101	
+Rengar_image
+Rengar	49.58%	31,169	2.15	165.34	12,764
+102	
+Brand_image
+Brand	49.56%	30,279	1.76	76.66	10,267
+103	
+Evelynn_image
+Evelynn	49.51%	18,008	2.91	149.88	12,102
+104	
+Elise_image
+Elise	49.5%	11,449	2.49	135.42	11,143
+105	
+Braum_image
+Braum	49.49%	10,620	2.88	33.75	7,844
+106	
+Irelia_image
+Irelia	49.46%	52,436	1.62	220.05	12,958
+107	
+Pantheon_image
+Pantheon	49.45%	15,121	2.04	118.23	10,971
+108	
+Rumble_image
+Rumble	49.43%	7,749	2.29	174.24	11,780
+109	
+Sivir_image
+Sivir	49.42%	12,193	2.41	215.56	12,557
+110	
+Karma_image
+Karma	49.38%	63,078	2.72	55.20	8,700
+111	
+Galio_image
+Galio	49.38%	10,229	2.53	110.30	9,576
+112	
+Yone_image
+Yone	49.35%	55,225	1.69	203.05	12,470
+113	
+Sylas_image
+Sylas	49.35%	35,930	2.05	152.33	11,276
+114	
+Jarvan IV_image
+Jarvan IV	49.35%	25,025	3.14	148.22	11,464
+115	
+Udyr_image
+Udyr	49.33%	10,288	2.56	178.18	11,587
+116	
+Nasus_image
+Nasus	49.29%	20,733	1.86	173.83	11,392
+117	
+Master Yi_image
+Master Yi	49.25%	35,573	1.96	169.86	12,545
+118	
+Alistar_image
+Alistar	49.25%	16,320	2.54	38.12	7,873
+119	
+Tryndamere_image
+Tryndamere	49.23%	35,069	1.74	216.36	13,108
+120	
+Poppy_image
+Poppy	49.16%	15,179	2.36	146.06	10,797
+121	
+Yuumi_image
+Yuumi	49.09%	44,089	4.1	6.69	7,927
+122	
+Morgana_image
+Morgana	49.04%	30,887	2.5	48.44	9,113
+123	
+Karthus_image
+Karthus	49.03%	20,705	2.21	197.51	13,115
+124	
+Akali_image
+Akali	48.99%	50,373	2.22	163.17	11,570
+125	
+Amumu_image
+Amumu	48.98%	12,712	2.49	144.76	10,762
+126	
+Taric_image
+Taric	48.98%	4,569	2.7	46.99	7,929
+127	
+Xin Zhao_image
+Xin Zhao	48.96%	23,492	2.25	157.45	11,437
+128	
+Viego_image
+Viego	48.95%	54,985	2.32	163.78	12,041
+129	
+Zoe_image
+Zoe	48.91%	11,833	2.44	156.17	11,226
+130	
+Rakan_image
+Rakan	48.86%	21,239	2.91	35.65	7,864
+131	
+Graves_image
+Graves	48.66%	43,942	2.14	201.60	12,600
+132	
+Jax_image
+Jax	48.53%	35,741	1.52	188.49	12,126
+133	
+Gnar_image
+Gnar	48.51%	22,245	1.82	187.12	11,556
+134	
+Sion_image
+Sion	48.31%	44,653	1.28	207.47	12,141
+135	
+Caitlyn_image
+Caitlyn	48.15%	55,725	2.19	196.68	12,364
+136	
+Gragas_image
+Gragas	48.13%	15,401	2.2	156.02	10,516
+137	
+Leona_image
+Leona	48.1%	29,931	2.37	35.58	7,838
+138	
+Orianna_image
+Orianna	48%	17,684	2.49	187.31	11,284
+139	
+Kai'Sa_image
+Kai'Sa	47.89%	115,324	2.28	197.12	12,483
+140	
+Syndra_image
+Syndra	47.85%	18,620	2.1	186.63	11,611
+141	
+Ezreal_image
+Ezreal	47.77%	80,539	2.28	192.27	12,397
+142	
+Twisted Fate_image
+Twisted Fate	47.69%	13,864	2.17	156.06	11,338
+143	
+Zeri_image
+Zeri	47.65%	55,931	2.22	203.56	12,390
+144	
+Kalista_image
+Kalista	47.64%	6,543	2.17	199.25	12,846
+145	
+Gangplank_image
+Gangplank	47.58%	37,823	1.92	209.11	13,759
+146	
+Nidalee_image
+Nidalee	47.54%	15,635	2.67	154.63	11,662
+147	
+Kennen_image
+Kennen	47.52%	9,418	1.96	174.50	11,265
+148	
+Renekton_image
+Renekton	47.32%	16,017	1.75	199.66	12,132
+149	
+LeBlanc_image
+LeBlanc	47.26%	22,570	2.59	150.06	11,076
+150	
+Varus_image
+Varus	47.04%	11,680	2.19	190.57	12,389
+151	
+Lee Sin_image
+Lee Sin	47.02%	68,681	2.58	149.95	11,517
+152	
+Azir_image
+Azir	46.55%	8,275	1.99	192.97	11,664
+153	
+Corki_image
+Corki	46.35%	17,022	2.04	207.17	13,054
+154	
+Thresh_image
+Thresh	46.28%	44,394	2.51	35.24	7,846
+155	
+Jayce_image
+Jayce	46.23%	24,444	1.7	197.33	12,301
+156	
+Olaf_image
+Olaf	46.02%	4,994	2.08	172.05	11,899
+157	
+Gwen_image
+Gwen	44.36%	12,635	1.67	186.58	11,708
+158	
+Aphelios_image
+Aphelios	43.58%	25,656	1.85	191.63	11,931
+159	
+Ryze_image
+Ryze	43.14%	13,311	1.96	208.56	11,600
